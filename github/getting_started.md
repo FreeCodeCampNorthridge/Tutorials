@@ -5,6 +5,7 @@ Github is used for code collaboration and version control. The basic idea is tha
 # Useful links:
 * 10 minute tutorial: https://guides.github.com/activities/hello-world/
 * The git standard (a bit more in depth): https://git-scm.com/book/en/v2
+* [Intro to Git](https://youtu.be/LemSseuZB9I)
 
 ## Other Useful features
 * Projects Tab
