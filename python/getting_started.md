@@ -36,9 +36,9 @@ Here are some popular libraries for python.
 * Data Analysis: Numpy (if you need math/arrays), Pandas (for tables), Statsmodels (for stats)
 * Data Visualization: Matplotlib (non-interactive plots), Plotly (interactive plots, d3 wrapper)
 * Machine Learning:
- * General: Scikitlearn, PySpark (Advanced)
- * Deep Learning (Advanced): Keras, Tensorflow
- * Natural Language Processing (if you data is text based): NLTK, Spacy, Gensim
- * Computer Vision: OpenCV or Tensorflow
- * Boosting Algorithms (Advanced): XGBoost, LightGBM, CatBoost
+  * General: Scikitlearn, PySpark (Advanced)
+  * Deep Learning (Advanced): Keras, Tensorflow
+  * Natural Language Processing (if you data is text based): NLTK, Spacy, Gensim
+  * Computer Vision: OpenCV or Tensorflow
+  * Boosting Algorithms (Advanced): XGBoost, LightGBM, CatBoost
 * Task Scheduling: Airflow
